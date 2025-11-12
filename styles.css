@@ -129,19 +129,13 @@ body {
 }
 
 .hero-title {
-    font-size: 3.5rem;
+    font-size:2.5rem;
     font-weight: 700;
     line-height: 1.2;
     margin-bottom: 1.5rem;
     color: var(--text-primary);
 }
-.hero-titlee {
-    font-size: 2.5rem;
-    font-weight: 700;
-    line-height: 1.2;
-    margin-bottom: 1.5rem;
-    color: var(--text-primary);
-}
+
 
 .gradient-text {
     background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
@@ -700,6 +694,7 @@ section {
         text-align: center;
     }
 }
+
 
 
 
